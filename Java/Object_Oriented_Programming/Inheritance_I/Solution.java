@@ -1,4 +1,4 @@
-package Object_Oriented_Programming.Java_Inheritance_I;
+package Object_Oriented_Programming.Inheritance_I;
 
 class Animal{
     void walk(){
