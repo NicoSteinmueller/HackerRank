@@ -1,4 +1,4 @@
-package Advanced.Stack;
+package Data_Structures.Stack;
 
 import java.util.Scanner;
 import java.util.Stack;

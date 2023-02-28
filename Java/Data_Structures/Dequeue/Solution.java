@@ -1,4 +1,4 @@
-package Advanced.Dequeue;
+package Data_Structures.Dequeue;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

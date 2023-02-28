@@ -1,4 +1,4 @@
-package Advanced.Comparator;
+package Data_Structures.Comparator;
 
 import java.util.Arrays;
 import java.util.Comparator;
