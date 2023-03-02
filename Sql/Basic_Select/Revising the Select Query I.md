@@ -9,7 +9,7 @@ Query all columns for all American cities in the **CITY** table with populations
 
 The **CITY** table is described as follows: 
 
-![img.png](attachments/Revising the Select Query I.png)
+![img.png](attachments/City.png)
 
 # Solution
 ````mysql

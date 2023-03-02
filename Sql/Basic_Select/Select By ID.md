@@ -9,7 +9,7 @@ Query all columns for a city in **CITY** with the ID _1661_.
 
 The **CITY** table is described as follows: 
 
-![img.png](attachments/Select BY ID.png)
+![img.png](attachments/City.png)
 
 # Solution
 ````mysql
