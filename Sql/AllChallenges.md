@@ -9,3 +9,4 @@
 6. [Japanese Cities' Names](Basic_Select/Japanese%20Cities'%20Names.md)
 7. [Weather Observation Station 1](Basic_Select/Weather%20Observation%20Station%201.md)
 8. [Weather Observation Station 3](Basic_Select/Weather%20Observation%20Station%203.md)
+9. [Weather Observation Station 4](Basic_Select/Weather%20Observation%20Station%204.md)
