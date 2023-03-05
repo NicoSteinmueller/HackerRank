@@ -19,3 +19,4 @@
 16. [Weather Observation Station 11](Basic_Select/Weather%20Observation%20Station%2011.md)
 17. [Weather Observation Station 12](Basic_Select/Weather%20Observation%20Station%2012.md)
 18. [Employee Names](Basic_Select/Employee%20Names.md)
+19. [Employee Salaries](Basic_Select/Employee%20Salaries.md)
