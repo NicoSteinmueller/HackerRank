@@ -17,3 +17,4 @@
 14. [Weather Observation Station 9](Basic_Select/Weather%20Observation%20Station%209.md)
 15. [Weather Observation Station 10](Basic_Select/Weather%20Observation%20Station%2010.md)
 16. [Weather Observation Station 11](Basic_Select/Weather%20Observation%20Station%2011.md)
+17. [Weather Observation Station 12](Basic_Select/Weather%20Observation%20Station%2012.md)
